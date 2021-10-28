@@ -1,0 +1,43 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background: #000;
+}
+
+h1{
+    text-align: center;
+    color: whitesmoke;
+    margin-top: 70px;
+}
+
+form{
+    background: white;
+    width: 280px;
+    height: 200px;
+    margin: 150px 0px 0px 550px;
+}
+
+table,tr,td,th{
+    border: 1px solid black;
+}
+
+td{
+    color: white;
+    background: black;
+    font-size: 1em;
+}
+
+#td{
+    height: 100px;
+}
+
+#btn{
+    margin-left: 44px;
+    font-size: 1.3em;
+}
+
+
+table{
+    margin-left: 23px;
+}
